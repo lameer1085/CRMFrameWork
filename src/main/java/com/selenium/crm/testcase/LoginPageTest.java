@@ -13,12 +13,10 @@ public class LoginPageTest extends TestBase{
 	
 	LoginPage loginPage;
 	HomePage homePage;
-	
 	public LoginPageTest()
 	{
 		super();
 	}
-	
 	@BeforeMethod(alwaysRun=true)
 	public void setUp()
 	{
@@ -27,7 +25,6 @@ public class LoginPageTest extends TestBase{
 		
 		loginPage = new LoginPage();
 	}
-	
 	@Test(priority=1, enabled=true)
 	public void loginPageTitleTest()
 	{
@@ -50,5 +47,4 @@ public class LoginPageTest extends TestBase{
 		homePage = loginPage.login(property.getProperty("username"),property.getProperty("password"));
 		log.info("Successfully Logged into CRM Application");
 	}
-
 }

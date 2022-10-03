@@ -10,7 +10,7 @@ import com.selenium.crm.baseclass.TestBase;
 
 public class HomePage extends TestBase{
 	
-	@FindBy(xpath = "//td[contains(text(),'User: chandresh murugesan')]")
+	@FindBy(xpath = "//td[contains(text(),'User: AMEER SALMAN')]")
 	@CacheLookup
 	WebElement userNameLabel;
 	

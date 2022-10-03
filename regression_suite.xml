@@ -7,9 +7,10 @@
 
 	<test name="CRM Application Test Case">
 		<classes>
-			<class name="com.selenium.crm.testcase.LoginPageTest" />
+<!--			<class name="com.selenium.crm.testcase.LoginPageTest" />
 			<class name="com.selenium.crm.testcase.HomePageTest" />
-			<class name="com.selenium.crm.testcase.ContactsPageTest" />
+			<class name="com.selenium.crm.testcase.ContactsPageTest" />-->
+			<class name="com.selenium.crm.testcase.TaskPageTest"/>
 		</classes>
 	</test>
 </suite>

@@ -87,6 +87,7 @@ public class TestUtil extends TestBase{
 		{
 			try 
 			{
+				//WebElement frame=driver.findElement(By.name(frameName));
 				driver.switchTo().frame(frameName);
 				System.out.println("Navigated to Frame with Name ::: " +frameName);
 			} 

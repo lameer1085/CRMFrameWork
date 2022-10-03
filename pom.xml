@@ -103,7 +103,10 @@
 				<configuration>
 					<verbose>true</verbose>
 					<fork>true</fork>
-					<executable>C:\\Program Files\\Java\\jdk1.8.0_341\\bin\\javac.exe</executable>
+					<executable>C:\Program Files\Java\jdk-18.0.1.1\bin\javac.exe</executable>
+					<compilerVersion>1.5</compilerVersion>
+					<source>1.8</source>
+					<target>1.8</target>
 				</configuration>
 			</plugin>
 			
