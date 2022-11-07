@@ -1,0 +1,127 @@
+2022-10-14 18:51:06,475  INFO [main] CasePageTest:73 - Chrome driver initiated........
+2022-10-14 18:51:06,512  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:51:16,084  INFO [main] WebEventListener:24 - Application Launched Successfully
+2022-10-14 18:51:16,118  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:51:16,442  INFO [main] LoginPage:33 - Login Page Title Verified
+2022-10-14 18:51:17,131  INFO [main] LoginPage:119 - Browser Terminated
+2022-10-14 18:51:17,138  INFO [main] LoginPage:120 - -----------------------------------------------
+2022-10-14 18:51:21,704  INFO [main] LoginPage:73 - Chrome driver initiated........
+2022-10-14 18:51:21,766  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:51:45,524  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-10-14 18:51:45,525  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:51:45,525  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:51:45,635  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:51:45,648  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:51:57,628  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:51:57,777  INFO [main] HomePage:46 - Home Page Title Verified
+2022-10-14 18:51:58,634  INFO [main] HomePage:119 - Browser Terminated
+2022-10-14 18:51:58,636  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-14 18:52:03,943  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-14 18:52:03,945  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:52:20,829  INFO [main] WebEventListener:30 - Application started successfully
+2022-10-14 18:52:20,831  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:52:20,832  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:52:20,887  INFO [main] TasksPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:52:42,143  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:52:44,539  INFO [main] TasksPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:52:44,637  INFO [main] TasksPage:42 - label is verified
+2022-10-14 18:52:45,206  INFO [main] TasksPage:119 - Browser Terminated
+2022-10-14 18:52:45,207  INFO [main] TasksPage:120 - -----------------------------------------------
+2022-10-14 18:52:50,171  INFO [main] TasksPage:73 - Chrome driver initiated........
+2022-10-14 18:52:50,172  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:53:00,496  INFO [main] WebEventListener:27 - application successfully opened
+2022-10-14 18:53:00,497  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:53:00,498  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:53:00,499  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:53:00,519  INFO [main] CasesPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:53:11,943  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:53:12,134  INFO [main] HomePage:40 - username verified
+2022-10-14 18:53:12,594  INFO [main] HomePage:119 - Browser Terminated
+2022-10-14 18:53:12,595  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-14 18:53:14,140  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-14 18:53:14,141  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:53:25,196  INFO [main] WebEventListener:24 - Application Launched Successfully
+2022-10-14 18:53:25,197  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-14 18:53:25,328  INFO [main] LoginPage:41 - CRM Logo Verified
+2022-10-14 18:53:26,073  INFO [main] LoginPage:119 - Browser Terminated
+2022-10-14 18:53:26,074  INFO [main] LoginPage:120 - -----------------------------------------------
+2022-10-14 18:53:26,521 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:26,524 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2022-10-14 18:53:26,526 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-10-14 18:53:26,528 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-10-14 18:53:26,529 DEBUG [main] cache:44 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+2022-10-14 18:53:26,876 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:26,899 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2022-10-14 18:53:26,900 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-10-14 18:53:26,901 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-10-14 18:53:26,901 DEBUG [main] cache:44 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2022-10-14 18:53:27,098 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,100 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2022-10-14 18:53:27,101 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-10-14 18:53:27,102 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-10-14 18:53:27,103 DEBUG [main] cache:44 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+2022-10-14 18:53:27,126 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,128 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2022-10-14 18:53:27,129 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-10-14 18:53:27,144 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-10-14 18:53:27,145 DEBUG [main] cache:44 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+2022-10-14 18:53:27,157 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,158 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2022-10-14 18:53:27,160 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-10-14 18:53:27,161 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-10-14 18:53:27,162 DEBUG [main] cache:44 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+2022-10-14 18:53:27,177 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,179 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2022-10-14 18:53:27,181 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-10-14 18:53:27,184 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-10-14 18:53:27,185 DEBUG [main] cache:44 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+2022-10-14 18:53:27,194 DEBUG [main] cache:44 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-14 18:53:27,225 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,226 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2022-10-14 18:53:27,227 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-10-14 18:53:27,228 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-10-14 18:53:27,229 DEBUG [main] cache:44 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+2022-10-14 18:53:27,234 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,235 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2022-10-14 18:53:27,236 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-10-14 18:53:27,240 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-10-14 18:53:27,241 DEBUG [main] cache:44 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+2022-10-14 18:53:27,248 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,253 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2022-10-14 18:53:27,265 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-10-14 18:53:27,266 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-10-14 18:53:27,266 DEBUG [main] cache:44 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+2022-10-14 18:53:27,289 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,290 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2022-10-14 18:53:27,290 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-10-14 18:53:27,291 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-10-14 18:53:27,291 DEBUG [main] cache:44 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+2022-10-14 18:53:27,295 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,296 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2022-10-14 18:53:27,297 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-10-14 18:53:27,298 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-10-14 18:53:27,302 DEBUG [main] cache:44 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+2022-10-14 18:53:27,373 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,381 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+2022-10-14 18:53:27,383 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-10-14 18:53:27,384 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-10-14 18:53:27,385 DEBUG [main] cache:44 - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+2022-10-14 18:53:27,396 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-14 18:53:27,398 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-14 18:53:27,401 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-14 18:53:27,403 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-14 18:53:27,404 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,405 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2022-10-14 18:53:27,405 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-10-14 18:53:27,406 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-10-14 18:53:27,406 DEBUG [main] cache:44 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+2022-10-14 18:53:27,534 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,535 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2022-10-14 18:53:27,536 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-10-14 18:53:27,537 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-10-14 18:53:27,538 DEBUG [main] cache:44 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+2022-10-14 18:53:27,541 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-14 18:53:27,542 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2022-10-14 18:53:27,542 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-10-14 18:53:27,543 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-10-14 18:53:27,543 DEBUG [main] cache:44 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"

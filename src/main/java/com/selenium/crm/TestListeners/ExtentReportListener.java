@@ -28,16 +28,18 @@ public class ExtentReportListener extends ExtentReportSetup implements ITestList
 	public void onTestFailure(ITestResult result) {
 		extentTest.log(Status.FAIL, "Test Case Failed is ::: " +result.getMethod().getMethodName());
 		extentTest.log(Status.FAIL, result.getThrowable());
-		
+
 		try 
 		{
+			String file_path=TestUtil.getScreenshot(driver, result.getMethod().getMethodName());
 			extentTest.addScreenCaptureFromPath(TestUtil.getScreenshot(driver, result.getMethod().getMethodName()));
+			extentTest.fail("Test Case Failed Snapshot is below " + extentTest.addScreenCaptureFromPath(file_path));
 		} 
 		catch(IOException e) 
 		{
 			e.printStackTrace();
 		}
-		
+
 	}
 
 	public void onTestSkipped(ITestResult result) {

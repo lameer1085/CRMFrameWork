@@ -1,0 +1,11 @@
+2022-10-16 12:22:31,350  INFO [main] DealsPageTest:73 - Chrome driver initiated........
+2022-10-16 12:22:32,858  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-16 12:22:52,520  INFO [main] WebEventListener:24 - Application started successfully
+2022-10-16 12:22:52,522  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-16 12:22:52,528  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-16 12:22:55,954  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-16 12:22:58,765  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-16 12:23:27,989  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-16 12:23:34,077  INFO [main] HomePage:94 - all the dropDowns are selected successfully
+2022-10-16 12:23:43,279  INFO [main] HomePage:119 - Browser Terminated
+2022-10-16 12:23:43,279  INFO [main] HomePage:120 - -----------------------------------------------

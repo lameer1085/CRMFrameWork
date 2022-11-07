@@ -1,0 +1,5 @@
+2022-10-15 20:47:42,788  INFO [main] DealsPageTest:73 - Chrome driver initiated........
+2022-10-15 20:47:42,819  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-15 20:47:52,660  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-15 20:47:52,830  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-15 20:47:52,990  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html

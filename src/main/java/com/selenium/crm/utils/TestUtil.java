@@ -74,7 +74,8 @@ public class TestUtil extends TestBase{
 			Object[][] data = new Object[sheet.getLastRowNum()][sheet.getRow(0).getLastCellNum()];
 			for(int i = 0; i < sheet.getLastRowNum(); i++) 
 			{
-				for(int k = 0; k < sheet.getRow(0).getLastCellNum(); k++) 
+				for(int k = 0; k < sheet.getRow(0).getLastCellNum(); k++)
+
 				{
 					data[i][k] = sheet.getRow(i + 1).getCell(k).toString();
 				}
@@ -303,17 +304,18 @@ public class TestUtil extends TestBase{
 		}
 
 		//To Click on Element using Actions Class.
-		public void clickOnElementUsingActions(WebElement element) 
+		public static void clickOnElementUsingActions(WebElement element)
 		{
 			actions = new Actions(driver);
 			actions.moveToElement(element).click().perform();
 		}
 			
 		//To Mouse Hover and Click or Select an Element using Actions Class.
-		public static void moveToElement(WebDriver driver, WebElement element) 
+		public static void moveToElementAndClickOnSubElement(WebElement element1, WebElement element)
 		{
 			actions = new Actions(driver);
-			actions.moveToElement(element).build().perform();
+			actions.moveToElement(element1).build().perform();
+			element.click();
 		}
 
 		//To Perform Drag and Drop action using Actions Class - 1.
@@ -363,6 +365,61 @@ public class TestUtil extends TestBase{
 			File finalDestination = new File(destination);
 			FileUtils.copyFile(source, finalDestination);
 			return destination;
-		}		
+		}
 
+        // Date picker for CRM webpage
+		public static void  pickDate(WebDriver driver,String date, int countDiv){
+			Date currentDate = new Date();
+			SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
+			try{
+				Date expectedDate = dateFormat.parse(date);
+				String day = new SimpleDateFormat("d").format(expectedDate);
+				String month = new SimpleDateFormat("MMMM").format(expectedDate);
+				String year = new SimpleDateFormat("yyyy").format(expectedDate);
+				String ExpectedMonthYear = month+", "+year;
+
+				while(true){
+					String displayDate=driver.findElement(By.xpath("//div["+countDiv+"][@class='calendar']/table/thead/tr[1]/td[2]")).getText();
+					if(ExpectedMonthYear.equals(displayDate)){
+						driver.findElement(By.xpath("//div["+countDiv+"][@class='calendar']/table/tbody/tr/td[text()='"+day+"']")).click();
+						break;
+					} else if (expectedDate.compareTo(currentDate)>0) {
+						driver.findElement(By.xpath("//div["+countDiv+"][@class='calendar']/table/thead/tr[2]/td[4]/div")).click();
+					}else{
+						driver.findElement(By.xpath("//div["+countDiv+"][@class='calendar']/table/thead/tr[2]/td[2]/div")).click();
+					}
+				}
+			}catch (Exception e){
+				e.printStackTrace();
+			}
+		}
+
+	public static Object [][] getData(String name, String Value) {
+		FileInputStream file = null;
+		try
+		{
+			file = new FileInputStream(Common_Constants.TEST_DATA_SHEET_PATH);
+			book = WorkbookFactory.create(file);
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		sheet= book.getSheet(name);
+
+		Object[][] data = new Object[sheet.getLastRowNum()+1][sheet.getRow(0).getLastCellNum()];
+		int valueRow=0;
+		for (int i=0; i <= sheet.getLastRowNum(); i++) {
+			int j=0;
+			if ((sheet.getRow(i).getCell(j).toString()).equals(Value)) {
+				 valueRow = (sheet.getRow(i).getCell(j).getRowIndex());
+			}
+		}
+		Object[][]exactData=new Object[1][sheet.getRow(valueRow).getLastCellNum()-1];
+		for (int k = 1; k < sheet.getRow(0).getLastCellNum(); k++) {
+			exactData[0][k-1] = sheet.getRow(valueRow).getCell(k).toString();
+		}
+		return exactData;
+	}
 }
+

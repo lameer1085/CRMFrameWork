@@ -7,6 +7,7 @@ import com.selenium.crm.pages.TasksPage;
 import com.selenium.crm.utils.TestUtil;
 import org.openqa.selenium.By;
 import org.testng.Assert;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -16,13 +17,14 @@ public class TaskPageTest extends TestBase {
     LoginPage loginPage;
     HomePage homePage;
     TestUtil testUtil;
+
     String sheetName="Search_Name";
 
     public TaskPageTest() {
         super();
     }
 
-    @BeforeTest(alwaysRun = true)
+    @BeforeMethod(alwaysRun = true)
     public void setup() {
         initialization("chrome");
         log.info("Application started successfully");
@@ -32,7 +34,7 @@ public class TaskPageTest extends TestBase {
         homePage = loginPage.login(property.getProperty("username"), property.getProperty("password"));
     }
 
-    @Test(priority = 0, enabled = true)
+    @Test(priority = 15, enabled = true)
     public void verifyTasksLabel() {
         testUtil.switchToFrame("mainpanel");
         tasksPage = homePage.clickOnTasksLink();
@@ -40,10 +42,10 @@ public class TaskPageTest extends TestBase {
         log.info("label is verified");
     }
 
-    @Test(priority = 1, enabled = true)
+    @Test(priority = 16, enabled = true)
     public void details() {
         testUtil.switchToFrame("mainpanel");
-        homePage.clickOnTasksLink();
+        tasksPage=homePage.clickOnTasksLink();
         tasksPage.searchWithData("ameer", "salman", "75", "search for name");
         tasksPage.statusSelection();
         tasksPage.typeSelection();
@@ -53,14 +55,14 @@ public class TaskPageTest extends TestBase {
     @DataProvider(name = "data")
     public Object[][] dataPro() {
 
-        Object[][] data = {{"search foe contacts"}};
         /*Object[][] data = TestUtil.getTestData(sheetName);*/
-        return data;
+        return new Object[][]{{"search for contacts"}};
     }
 
-    @Test(priority = 2, enabled = true, dataProvider = "data")
+    @Test(priority = 17, enabled = true, dataProvider = "data")
     public void saveSearch(String searchAs) {
         testUtil.switchToFrame("mainpanel");
+        tasksPage=homePage.clickOnTasksLink();
         tasksPage.saveMarkSelection(searchAs);
         log.info("search tasks saved successfully");
     }

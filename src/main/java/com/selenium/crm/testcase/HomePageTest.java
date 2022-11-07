@@ -38,7 +38,7 @@ public class HomePageTest extends TestBase{
 		homePage = loginPage.login(property.getProperty("username"),property.getProperty("password"));
 	}
 	
-	@Test(priority=1, enabled=true)
+	@Test(priority=4, enabled=true)
 	public void verifyHomePageTitleTest()
 	{
 		String homePageTitle = homePage.verifyHomePageTitle();
@@ -46,7 +46,7 @@ public class HomePageTest extends TestBase{
 		log.info("Home Page Title Verified");
 	}
 	
-	@Test(priority=2, enabled=true)
+	@Test(priority=5, enabled=true)
 	public void verifyUserNameTest()
 	{
 		testUtil.switchToFrame("mainpanel");
@@ -54,7 +54,7 @@ public class HomePageTest extends TestBase{
 		log.info("UserName Verified");
 	}
 	
-	@Test(priority=3, enabled=true)
+	@Test(priority=6, enabled=true)
 	public void verifyContactsLinkTest()
 	{
 		testUtil.switchToFrame("mainpanel");
@@ -62,7 +62,7 @@ public class HomePageTest extends TestBase{
 		log.info("Switched into Frame and Clicked on Contacts Link");
 	}
 	
-	@Test(priority=4, enabled=true)
+	@Test(priority=7, enabled=true)
 	public void verifyDealsPageLinkTest()
 	{
 		testUtil.switchToFrame("mainpanel");

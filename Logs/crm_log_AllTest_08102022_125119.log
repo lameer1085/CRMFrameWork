@@ -1,0 +1,338 @@
+2022-10-08 12:51:29,849  INFO [main] ExtentReportListener:73 - Chrome driver initiated........
+2022-10-08 12:51:30,038  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:51:52,730  INFO [main] WebEventListener:24 - Application Launched Successfully
+2022-10-08 12:51:52,774  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:51:52,997  INFO [main] LoginPage:33 - Login Page Title Verified
+2022-10-08 12:51:54,192  INFO [main] LoginPage:119 - Browser Terminated
+2022-10-08 12:51:54,194  INFO [main] LoginPage:120 - -----------------------------------------------
+2022-10-08 12:51:58,025  INFO [main] LoginPage:73 - Chrome driver initiated........
+2022-10-08 12:51:58,060  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:52:11,442  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-10-08 12:52:11,443  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:52:11,444  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:52:11,535  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:52:11,545  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:52:27,275  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:52:27,323  INFO [main] HomePage:46 - Home Page Title Verified
+2022-10-08 12:52:29,217  INFO [main] HomePage:119 - Browser Terminated
+2022-10-08 12:52:29,218  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-08 12:52:33,956  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-08 12:52:33,957  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:52:49,888  INFO [main] WebEventListener:24 - Application Launched Successfully
+2022-10-08 12:52:49,889  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:52:50,177  INFO [main] LoginPage:41 - CRM Logo Verified
+2022-10-08 12:52:52,872  INFO [main] LoginPage:119 - Browser Terminated
+2022-10-08 12:52:52,873  INFO [main] LoginPage:120 - -----------------------------------------------
+2022-10-08 12:53:00,804  INFO [main] LoginPage:73 - Chrome driver initiated........
+2022-10-08 12:53:00,805  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:53:27,784  INFO [main] WebEventListener:24 - Application Launched Successfully
+2022-10-08 12:53:27,788  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:53:55,000  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:53:55,002  INFO [main] HomePage:48 - Successfully Logged into CRM Application
+2022-10-08 12:53:56,551  INFO [main] HomePage:119 - Browser Terminated
+2022-10-08 12:53:56,552  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-08 12:54:15,176  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-08 12:54:15,179  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:21,966  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-10-08 12:54:21,968  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:21,969  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:21,971  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:21,973  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:30,694  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:31,018  INFO [main] HomePage:54 - UserName Verified
+2022-10-08 12:54:31,488  INFO [main] HomePage:119 - Browser Terminated
+2022-10-08 12:54:31,488  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-08 12:54:35,622  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-08 12:54:35,623  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:45,067  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-10-08 12:54:45,069  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:45,070  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:45,072  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:45,073  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:54:56,101  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:00,842  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:00,843  INFO [main] ContactsPage:62 - Switched into Frame and Clicked on Contacts Link
+2022-10-08 12:55:02,132  INFO [main] ContactsPage:119 - Browser Terminated
+2022-10-08 12:55:02,132  INFO [main] ContactsPage:120 - -----------------------------------------------
+2022-10-08 12:55:05,757  INFO [main] ContactsPage:73 - Chrome driver initiated........
+2022-10-08 12:55:05,758  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:16,001  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-10-08 12:55:16,002  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:16,003  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:16,006  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:16,008  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:25,783  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:27,641  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:27,642  INFO [main] DealsPage:70 - Switched into Frame and Clicked on Deals Link
+2022-10-08 12:55:28,391  INFO [main] DealsPage:119 - Browser Terminated
+2022-10-08 12:55:28,392  INFO [main] DealsPage:120 - -----------------------------------------------
+2022-10-08 12:55:34,400  INFO [main] DealsPage:73 - Chrome driver initiated........
+2022-10-08 12:55:34,401  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:45,115  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:45,116  INFO [main] TestUtil:37 - Application Launched Successfully
+2022-10-08 12:55:45,116  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:45,117  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:45,119  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:56,233  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:58,613  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:55:59,082  INFO [main] ContactsPage:71 - Verified Multiple Contacts
+2022-10-08 12:55:59,660  INFO [main] ContactsPage:119 - Browser Terminated
+2022-10-08 12:55:59,660  INFO [main] ContactsPage:120 - -----------------------------------------------
+2022-10-08 12:56:10,227  INFO [main] ContactsPage:73 - Chrome driver initiated........
+2022-10-08 12:56:10,228  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:23,836  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:23,836  INFO [main] TestUtil:37 - Application Launched Successfully
+2022-10-08 12:56:23,837  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:23,839  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:23,841  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:32,850  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:39,835  INFO [main] HomePage:87 - New Contacts Created Successfully
+2022-10-08 12:56:40,986  INFO [main] HomePage:119 - Browser Terminated
+2022-10-08 12:56:40,986  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-08 12:56:46,361  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-08 12:56:46,362  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:54,858  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:54,859  INFO [main] TestUtil:37 - Application Launched Successfully
+2022-10-08 12:56:54,860  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:54,866  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:56:54,868  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:02,052  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:07,359  INFO [main] HomePage:87 - New Contacts Created Successfully
+2022-10-08 12:57:08,156  INFO [main] HomePage:119 - Browser Terminated
+2022-10-08 12:57:08,174  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-08 12:57:10,186  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-08 12:57:10,187  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:20,652  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:20,653  INFO [main] TestUtil:37 - Application Launched Successfully
+2022-10-08 12:57:20,654  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:20,655  INFO [main] ContactsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:20,656  INFO [main] DealsPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:28,727  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:33,659  INFO [main] HomePage:87 - New Contacts Created Successfully
+2022-10-08 12:57:35,225  INFO [main] HomePage:119 - Browser Terminated
+2022-10-08 12:57:35,225  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-08 12:57:41,110  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-08 12:57:41,111  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:51,688  INFO [main] WebEventListener:30 - Application started successfully
+2022-10-08 12:57:51,690  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:51,691  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:57:54,073  INFO [main] TasksPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:58:05,443  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:58:08,748  INFO [main] TasksPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:58:08,806  INFO [main] TasksPage:42 - label is verified
+2022-10-08 12:58:09,915  INFO [main] TasksPage:119 - Browser Terminated
+2022-10-08 12:58:09,915  INFO [main] TasksPage:120 - -----------------------------------------------
+2022-10-08 12:58:20,826  INFO [main] TasksPage:73 - Chrome driver initiated........
+2022-10-08 12:58:20,828  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:58:34,138  INFO [main] WebEventListener:30 - Application started successfully
+2022-10-08 12:58:34,139  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:58:34,140  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:58:34,141  INFO [main] TasksPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:58:43,472  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:58:45,136  INFO [main] TasksPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:58:46,012  INFO [main] TasksPage:52 - all the information's are entered 
+2022-10-08 12:58:48,094  INFO [main] TasksPage:119 - Browser Terminated
+2022-10-08 12:58:48,095  INFO [main] TasksPage:120 - -----------------------------------------------
+2022-10-08 12:58:51,561  INFO [main] TasksPage:73 - Chrome driver initiated........
+2022-10-08 12:58:51,562  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:01,286  INFO [main] WebEventListener:30 - Application started successfully
+2022-10-08 12:59:01,287  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:01,288  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:01,289  INFO [main] TasksPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:10,295  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:12,301  INFO [main] TasksPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:12,606  INFO [main] TasksPage:67 - search tasks saved successfully
+2022-10-08 12:59:14,740  INFO [main] TasksPage:119 - Browser Terminated
+2022-10-08 12:59:14,740  INFO [main] TasksPage:120 - -----------------------------------------------
+2022-10-08 12:59:20,404  INFO [main] TasksPage:73 - Chrome driver initiated........
+2022-10-08 12:59:20,405  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:31,935  INFO [main] WebEventListener:24 - application successfully opened
+2022-10-08 12:59:31,936  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:31,936  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:31,937  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:32,687  INFO [main] CasesPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:40,484  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 12:59:40,714  INFO [main] HomePage:37 - username verified
+2022-10-08 12:59:42,128  INFO [main] HomePage:119 - Browser Terminated
+2022-10-08 12:59:42,128  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-08 12:59:47,449  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-08 12:59:47,450  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:00,858  INFO [main] WebEventListener:24 - application successfully opened
+2022-10-08 13:00:00,859  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:00,906  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:00,909  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:00,910  INFO [main] CasesPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:11,149  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:15,644  INFO [main] HomePage:43 - New case page successfully opened
+2022-10-08 13:00:19,791  INFO [main] HomePage:51 - case page checked ......
+2022-10-08 13:00:20,860  INFO [main] HomePage:119 - Browser Terminated
+2022-10-08 13:00:20,860  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-08 13:00:26,996  INFO [main] HomePage:73 - Chrome driver initiated........
+2022-10-08 13:00:26,996  INFO [main] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:38,357  INFO [main] WebEventListener:24 - application successfully opened
+2022-10-08 13:00:38,358  INFO [main] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:38,358  INFO [main] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:38,359  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:38,360  INFO [main] CasesPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:46,679  INFO [main] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-08 13:00:50,348  INFO [main] HomePage:58 - date is picked successfully
+2022-10-08 13:00:51,067  INFO [main] HomePage:119 - Browser Terminated
+2022-10-08 13:00:51,073  INFO [main] HomePage:120 - -----------------------------------------------
+2022-10-08 13:00:51,754 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:51,758 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2022-10-08 13:00:51,762 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2022-10-08 13:00:51,764 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2022-10-08 13:00:51,765 DEBUG [main] cache:44 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+2022-10-08 13:00:52,775 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:52,822 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2022-10-08 13:00:52,823 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2022-10-08 13:00:52,824 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2022-10-08 13:00:52,825 DEBUG [main] cache:44 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2022-10-08 13:00:53,330 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,331 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2022-10-08 13:00:53,332 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2022-10-08 13:00:53,333 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2022-10-08 13:00:53,333 DEBUG [main] cache:44 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+2022-10-08 13:00:53,356 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,357 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2022-10-08 13:00:53,357 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2022-10-08 13:00:53,378 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2022-10-08 13:00:53,379 DEBUG [main] cache:44 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+2022-10-08 13:00:53,384 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,385 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2022-10-08 13:00:53,386 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2022-10-08 13:00:53,387 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2022-10-08 13:00:53,388 DEBUG [main] cache:44 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+2022-10-08 13:00:53,393 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,393 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2022-10-08 13:00:53,394 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2022-10-08 13:00:53,395 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2022-10-08 13:00:53,396 DEBUG [main] cache:44 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+2022-10-08 13:00:53,403 DEBUG [main] cache:44 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,480 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,481 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2022-10-08 13:00:53,482 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2022-10-08 13:00:53,484 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2022-10-08 13:00:53,484 DEBUG [main] cache:44 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+2022-10-08 13:00:53,491 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,492 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2022-10-08 13:00:53,493 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2022-10-08 13:00:53,502 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2022-10-08 13:00:53,503 DEBUG [main] cache:44 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+2022-10-08 13:00:53,505 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,506 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2022-10-08 13:00:53,521 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2022-10-08 13:00:53,524 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2022-10-08 13:00:53,524 DEBUG [main] cache:44 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+2022-10-08 13:00:53,539 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,540 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2022-10-08 13:00:53,541 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2022-10-08 13:00:53,542 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2022-10-08 13:00:53,542 DEBUG [main] cache:44 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+2022-10-08 13:00:53,548 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,584 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2022-10-08 13:00:53,585 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2022-10-08 13:00:53,585 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2022-10-08 13:00:53,585 DEBUG [main] cache:44 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+2022-10-08 13:00:53,640 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,641 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+2022-10-08 13:00:53,643 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2022-10-08 13:00:53,644 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2022-10-08 13:00:53,644 DEBUG [main] cache:44 - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+2022-10-08 13:00:53,649 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,659 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,660 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,663 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,665 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,667 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,668 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,671 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,673 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,675 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,677 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,679 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,679 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,679 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,679 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,679 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,689 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,692 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,693 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,696 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,697 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,699 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,701 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,800 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,801 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,803 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,804 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,806 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,807 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,809 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,812 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,814 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,815 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:53,816 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,817 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2022-10-08 13:00:53,819 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2022-10-08 13:00:53,820 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2022-10-08 13:00:53,820 DEBUG [main] cache:44 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+2022-10-08 13:00:53,970 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,971 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2022-10-08 13:00:53,972 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2022-10-08 13:00:53,973 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2022-10-08 13:00:53,973 DEBUG [main] cache:44 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+2022-10-08 13:00:53,976 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-08 13:00:53,977 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2022-10-08 13:00:53,977 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2022-10-08 13:00:53,978 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2022-10-08 13:00:53,979 DEBUG [main] cache:44 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/lamee/.m2/repository/com/aventstack/extentreports/4.1.7/extentreports-4.1.7.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
+2022-10-08 13:00:54,782 DEBUG [main] cache:44 - "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,783 DEBUG [main] cache:44 - "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,784 DEBUG [main] cache:44 - "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,785 DEBUG [main] cache:44 - "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,785 DEBUG [main] cache:44 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,785 DEBUG [main] cache:44 - "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,786 DEBUG [main] cache:44 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,786 DEBUG [main] cache:44 - "spark/partials/head.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,787 DEBUG [main] cache:44 - "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,787 DEBUG [main] cache:44 - "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,788 DEBUG [main] cache:44 - "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,788 DEBUG [main] cache:44 - "spark/partials/test.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,790 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,791 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,793 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,795 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,796 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,797 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,799 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,800 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,802 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,803 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,804 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,806 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,831 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,832 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,834 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,835 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,837 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,838 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,840 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,841 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,842 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,843 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,845 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,846 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,847 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,849 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,850 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,851 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,853 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,856 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,858 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,859 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,860 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,861 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,862 DEBUG [main] cache:44 - "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,869 DEBUG [main] cache:44 - "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-10-08 13:00:54,869 DEBUG [main] cache:44 - "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.

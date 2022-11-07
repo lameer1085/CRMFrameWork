@@ -6,6 +6,7 @@ public class Common_Constants {
 	public static final String HOME_PAGE_TITLE = "CRMPRO";
 	
 	//excel sheet path
-	public static final String TEST_DATA_SHEET_PATH = System.getProperty("user.dir") + "/src/main/java/com/crm/qa/TestData/FreeCRMTestData.xlsx";
+	public static final String TEST_DATA_SHEET_PATH = System.getProperty("user.dir") + "/src/main/resources/CRMTestData.xlsx";
 
 }
+                                                                             //src/main/resources/CRMTestData.xlsx   /src/main/java/com/crm/qa/TestData/CRMTestData.xlsx

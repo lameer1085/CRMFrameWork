@@ -5,7 +5,7 @@ public class Browser_constants {
 	public static final String CHROME_DRIVER_PATH = System.getProperty("user.dir") + "/Drivers/chromedriver.exe";
 	public static final String CHROME_DRIVER_CLASS_NAME = "webdriver.chrome.driver";
 	
-	public static final String EDGE_DRIVER_PATH = System.getProperty("user.dir") + "/Drivers/msedgedriver.exe";
+	public static final String EDGE_DRIVER_PATH = System.getProperty("user.dir") + "/Drivers/msedgedriver106.exe";
 	public static final String EDGE_DRIVER_CLASS_NAME = "webdriver.edge.driver";
 	
 	public static final String FIREFOX_DRIVER_PATH = System.getProperty("user.dir") + "/Drivers/geckodriver.exe";

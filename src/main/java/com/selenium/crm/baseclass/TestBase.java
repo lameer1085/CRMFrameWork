@@ -24,6 +24,8 @@ import com.selenium.crm.constants.Timeout_constants;
 import com.selenium.crm.utils.TestUtil;
 import com.selenium.crm.utils.WebEventListener;
 
+import static com.selenium.crm.Reports.ExtentReportSetup.extent;
+
 public class TestBase {
 	
 	public static Logger log;
@@ -58,12 +60,12 @@ public class TestBase {
 	}
 	
 	public static void initialization(String browserValue) {
-		String broswerName = property.getProperty("browser");
-		String[] split_browser_value = broswerName.split(",");
+		String browserName = property.getProperty("browser");
+		String[] split_browser_value = browserName.split(",");
 		
 		if(split_browser_value[0].equalsIgnoreCase(browserValue)) {
 			chromeOptions = new ChromeOptions();
-			chromeOptions.setExperimentalOption("useAutomationExtension", false);
+			chromeOptions.setExperimentalOption("useAutomationExtension", true);
 			chromeOptions.setExperimentalOption("excludeSwitches", Collections.singletonList("enable-automation"));
 			System.setProperty(Browser_constants.CHROME_DRIVER_CLASS_NAME, Browser_constants.CHROME_DRIVER_PATH);
 			driver = new ChromeDriver(chromeOptions);
@@ -103,14 +105,14 @@ public class TestBase {
 		
 	}
 	
-	@AfterTest
+/*	@AfterTest
 	public void endReport()
 	{
-		
-	}
+
+	}*/
 	
 	@AfterMethod(alwaysRun=true)
-	public void tearDown() throws IOException
+	public void tearDown() throws Exception
 	{
 		driver.quit();
 		log.info("Browser Terminated");

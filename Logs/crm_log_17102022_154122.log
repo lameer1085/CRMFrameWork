@@ -1,0 +1,7 @@
+2022-10-17 15:43:19,902  INFO [TestNG-test=MsEdge test-2] WebEventListener:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-17 15:43:39,341  INFO [TestNG-test=MsEdge test-2] WebEventListener:27 - application successfully opened
+2022-10-17 15:43:39,342  INFO [TestNG-test=MsEdge test-2] TestUtil:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-17 15:43:39,343  INFO [TestNG-test=MsEdge test-2] LoginPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-17 15:43:39,344  INFO [TestNG-test=MsEdge test-2] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-17 15:43:41,552  INFO [TestNG-test=MsEdge test-2] CasesPage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
+2022-10-17 15:43:50,473  INFO [TestNG-test=MsEdge test-2] HomePage:48 - Property file path>>>>>>https://classic.crmpro.com/index.html
